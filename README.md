@@ -2,5 +2,5 @@
 - 👀 I’m interested in the technology industry in general with a special interest in cyber security.
 - 🌱 I’m currently preparing for my CompTIA Network+ exam.
 - 📫 How to reach me
-- email - jts-it@proton.me d
+- email - jts-it@proton.me
 - discord - jtvsjackson
