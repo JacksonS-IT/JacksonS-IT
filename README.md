@@ -3,4 +3,4 @@
 - 🌱 I’m currently preparing for my CompTIA Network+ exam.
 - 📫 How to reach me
 - email - jts-it@proton.me
-- discord - jtvsjackson
+- discord - jtsit
