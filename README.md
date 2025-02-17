@@ -37,6 +37,7 @@ I’m always open to collaboration, feedback, and learning from others. If you s
 - Email: jts-it@proton.me
 - LinkedIn: https://www.linkedin.com/in/jackson-smith-bb6225328
 - Discord: jtsit
+- Bluesky: https://bsky.app/profile/jts-it.bsky.social
 
 Thanks for stopping by, and I look forward to connecting with you!
 
