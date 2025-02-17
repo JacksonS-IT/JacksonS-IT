@@ -38,6 +38,7 @@ I’m always open to collaboration, feedback, and learning from others. If you s
 - LinkedIn: https://www.linkedin.com/in/jackson-smith-bb6225328
 - Discord: jtsit
 - Bluesky: https://bsky.app/profile/jts-it.bsky.social
+- Mastodon: https://mastodon.social/@jts_it
 
 Thanks for stopping by, and I look forward to connecting with you!
 
